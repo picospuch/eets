@@ -1,0 +1,6 @@
+--require source-map-support/register
+--delay
+--ui tdd
+--reporter spec
+--timeout 10000
+test/testLoader.js

@@ -1,0 +1,25 @@
+{
+  "name": "eets",
+  "version": "0.0.1",
+  "description": "eets.ts is an event emitter implementation implements the nodejs's event emitter interface. for learning typescript.",
+  "main": "eets.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eets",
+    "event",
+    "emitter",
+    "typescript",
+    "nodejs"
+  ],
+  "author": "picospuch",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tsb": "^1.10.4",
+    "mocha": "^2.5.3",
+    "rimraf": "^2.5.2",
+    "typescript": "^1.8.10"
+  }
+}
