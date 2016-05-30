@@ -4,5 +4,5 @@ Here is a event emitter written in typescript, implements nodejs's event emitter
 
 I'm writing another event emitter for learning typescript and grouping the beasts: mocha, gulp, vscode-loader, ...
 
-License
+## License
 MIT
